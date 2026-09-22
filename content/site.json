@@ -1,0 +1,224 @@
+{
+  "snaps": [
+    {
+      "img": "img/sopa-calabaza.jpg",
+      "alt": "Crema de calabaza con semillas y queso fresco en una cazuela de barro, rodeada de calabazas y hojas de otoño",
+      "w": 640,
+      "h": 800,
+      "caption": "crema de calabaza"
+    },
+    {
+      "img": "img/pan-masa-madre.jpg",
+      "alt": "Unas manos sujetan una hogaza de pan de masa madre recién horneada sobre una tabla de madera",
+      "w": 640,
+      "h": 800,
+      "caption": "pan del día"
+    },
+    {
+      "img": "img/pasta-casera.jpg",
+      "alt": "Pasta fresca cortada a mano saliendo de una máquina de pasta sobre la mesa enharinada",
+      "w": 640,
+      "h": 800,
+      "caption": "pasta a mano"
+    },
+    {
+      "img": "img/verduras-asadas.jpg",
+      "alt": "Sartén negra con zanahorias, boniato y cebolla asados",
+      "w": 640,
+      "h": 800,
+      "caption": "verduras al horno"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-04",
+      "time": "10:00",
+      "title": "Taller de masa madre",
+      "text": "Tres horas amasando y plegando. Te vas con tu masa madre viva, una hogaza recién horneada y la comida hecha.",
+      "price": 45,
+      "left": 3
+    },
+    {
+      "date": "2026-10-12",
+      "time": "14:00",
+      "title": "Mesa larga en la Huerta del Hondo",
+      "text": "Una sola mesa entre los bancales y ocho pases cocinados con lo que se recoja esa misma mañana. Si llueve, comemos en el invernadero.",
+      "price": 60,
+      "left": 0
+    },
+    {
+      "date": "2026-10-23",
+      "time": "19:00",
+      "title": "Pasta a mano, sin máquina",
+      "text": "Pici, orecchiette y maltagliati con harina del Molino de la Tetera. Cenamos lo que hayamos hecho, con una copa de vino natural.",
+      "price": 40,
+      "left": 7
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:30",
+      "title": "Cata de fermentados",
+      "text": "Kimchi, miso, kombucha y encurtidos de la despensa, con el cocinero que los cuida. Te llevas un bote a casa.",
+      "price": 25,
+      "left": 11
+    },
+    {
+      "date": "2026-12-21",
+      "time": "12:00",
+      "title": "Comida del solsticio",
+      "text": "El día más corto del año, con raíces al rescoldo, castañas y vino caliente. La cocina se queda abierta para quien quiera mirar.",
+      "price": 35,
+      "left": 18
+    }
+  ],
+  "farms": {
+    "roof": {
+      "name": "Nuestra azotea",
+      "km": 0
+    },
+    "hondo": {
+      "name": "Huerta del Hondo",
+      "km": 12
+    },
+    "musgo": {
+      "name": "Quesería El Musgo",
+      "km": 18
+    },
+    "endrinal": {
+      "name": "Frutales El Endrinal",
+      "km": 31
+    },
+    "molino": {
+      "name": "Molino de la Tetera",
+      "km": 44
+    }
+  },
+  "menu": {
+    "Para picar": [
+      {
+        "n": "Pan Radicle",
+        "d": "Masa madre de trigo antiguo, mantequilla cultivada y miso blanco batido.",
+        "p": 6,
+        "f": "molino",
+        "tags": []
+      },
+      {
+        "n": "Puerros a la brasa",
+        "d": "Romesco de avellana, limón quemado y chalota crujiente.",
+        "p": 9,
+        "f": "hondo",
+        "tags": [
+          "VG",
+          "SG"
+        ]
+      },
+      {
+        "n": "Flores de calabacín",
+        "d": "En tempura ligera, rellenas de requesón y con miel picante.",
+        "p": 11,
+        "f": "roof",
+        "tags": []
+      },
+      {
+        "n": "Tartar de remolacha",
+        "d": "Remolacha a la sal, yema ahumada, alcaparras y crujiente de centeno.",
+        "p": 10,
+        "f": "hondo",
+        "tags": []
+      }
+    ],
+    "De la huerta": [
+      {
+        "n": "Los últimos tomates",
+        "d": "Tomates de variedades antiguas, aliño de ciruela fermentada y shiso.",
+        "p": 12,
+        "f": "roof",
+        "tags": [
+          "VG",
+          "SG"
+        ]
+      },
+      {
+        "n": "Hinojo y pera",
+        "d": "Laminados en crudo, con nueces tostadas y queso curado vegetariano.",
+        "p": 12,
+        "f": "endrinal",
+        "tags": [
+          "SG"
+        ]
+      },
+      {
+        "n": "Cogollos a la parrilla",
+        "d": "Salsa green goddess, garbanzos crujientes y apio encurtido.",
+        "p": 11,
+        "f": "hondo",
+        "tags": [
+          "VG",
+          "SG"
+        ]
+      }
+    ],
+    "Principales": [
+      {
+        "n": "Apionabo entero asado",
+        "d": "Cuatro horas al horno sobre heno, con ajo negro y mantequilla tostada. Para dos.",
+        "p": 26,
+        "f": "hondo",
+        "tags": [
+          "SG"
+        ]
+      },
+      {
+        "n": "Cebada y setas",
+        "d": "Cebada cocinada como un risotto, con setas silvestres y queso curado 18 meses de El Musgo.",
+        "p": 21,
+        "f": "molino",
+        "tags": []
+      },
+      {
+        "n": "Pici hechos a mano",
+        "d": "Pesto de cavolo nero, pan rallado tostado y aceite de guindilla.",
+        "p": 20,
+        "f": "molino",
+        "tags": [
+          "VG"
+        ]
+      },
+      {
+        "n": "Berenjena a las brasas",
+        "d": "Tahini ahumado, granada, hierbas frescas y pan plano.",
+        "p": 22,
+        "f": "roof",
+        "tags": [
+          "VG"
+        ]
+      }
+    ],
+    "Postres": [
+      {
+        "n": "Tarta fina de manzana",
+        "d": "Manzanas de El Endrinal sobre hojaldre fino, con helado de laurel.",
+        "p": 9,
+        "f": "endrinal",
+        "tags": []
+      },
+      {
+        "n": "Remolacha y chocolate",
+        "d": "Mousse de chocolate negro y remolacha, guinda ácida y nibs de cacao.",
+        "p": 9,
+        "f": "endrinal",
+        "tags": [
+          "VG",
+          "SG"
+        ]
+      },
+      {
+        "n": "Bizcocho de chirivía",
+        "d": "Especiado como una tarta de zanahoria, con crema de mantequilla tostada.",
+        "p": 8,
+        "f": "hondo",
+        "tags": []
+      }
+    ]
+  }
+}
